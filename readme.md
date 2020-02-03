@@ -1,4 +1,10 @@
-### Inspired by https://kubernetes.io/blog/2020/01/22/kubeinvaders-gamified-chaos-engineering-tool-for-kubernetes/ but don't like the shell script is using oc
+### Intro
+
+* Inspired by https://kubernetes.io/blog/2020/01/22/kubeinvaders-gamified-chaos-engineering-tool-for-kubernetes/ but don't like the shell script is using oc. So I write one using kubectl
+
+* The original script calling multiple time "oc", used proper shell scripts to store the array.
+
+* line 21 is commented to prevent "accident"
 
 ### To run
 
