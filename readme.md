@@ -4,7 +4,7 @@
 
 * The original script calling multiple time "oc", used proper shell scripts to store the array.
 
-* line 21 is commented to prevent "accident"
+* line 21 is commented to prevent "accident". Use it as your own risks.
 
 ### To run
 
